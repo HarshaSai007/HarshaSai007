@@ -1,6 +1,5 @@
-# 👋 Hi there, I'm [Your Name]
-
-## 🎓 Computer Science Student at [Your University]
+# 👋 Hi there, I'm Harsha Sai Vasi
+## 🎓 Computer Science Student at SRKREC
 
 I'm passionate about technology and always eager to learn new things. Welcome to my GitHub profile!
 
