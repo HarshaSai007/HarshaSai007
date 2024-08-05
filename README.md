@@ -6,9 +6,8 @@ I'm passionate about technology and always eager to learn new things. Welcome to
 ### 🚀 About Me
 
 - 🌱 I'm currently learning [e.g., Web Development, Machine Learning, etc.]
-- 💼 I'm looking for internship opportunities in [Your Field of Interest]
+- 💼 I'm Currently Working as SE Intern At Bizcraft Adivisors
 - 🎯 2024 Goals: Contribute to Open Source projects and build my portfolio
-- ⚡ Fun fact: [Something interesting about you]
 
 ### 🛠 Skills
 
@@ -23,25 +22,11 @@ I'm passionate about technology and always eager to learn new things. Welcome to
 
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🌟 Featured Projects
-
-1. [Project Name](GitHub Repository Link)
-   - Brief description of the project
-   - Technologies used
-
-2. [Project Name](GitHub Repository Link)
-   - Brief description of the project
-   - Technologies used
 
 ### 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](Your LinkedIn Profile Link)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)]([Your LinkedIn Profile Link](https://www.linkedin.com/in/harshasaivasi/))
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:harshasai1114@gmail.com)
 
-### 📚 Currently Reading
 
-- [Book Title] by [Author Name]
-
----
-
-⭐️ From [Your GitHub Username](https://github.com/yourusername)
+⭐️ From [Your GitHub Username](https://github.com/HarshaSai007)
