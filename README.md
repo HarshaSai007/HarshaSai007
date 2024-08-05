@@ -20,7 +20,10 @@ I'm passionate about technology and always eager to learn new things. Welcome to
 
 ### 📊 GitHub Stats
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Harsha's](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=HarshaSai007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HarshaSai007&theme=tokyonight&hide_border=true)<br/>
+
 
 
 ### 📫 How to reach me
@@ -29,4 +32,4 @@ I'm passionate about technology and always eager to learn new things. Welcome to
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:harshasai1114@gmail.com)
 
 
-⭐️ From [Your GitHub Username](https://github.com/HarshaSai007)
+⭐️ From [HarshaSai007](https://github.com/HarshaSai007)
